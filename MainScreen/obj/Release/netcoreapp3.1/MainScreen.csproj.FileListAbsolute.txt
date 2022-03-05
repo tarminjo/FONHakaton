@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\MainScreen.exe
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\MainScreen.deps.json
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\MainScreen.runtimeconfig.json
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\MainScreen.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\MainScreen.dll
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\MainScreen.pdb
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.Form1.resources
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.Properties.Resources.resources
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.Recursion.resources
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.AssemblyInfo.cs
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.dll
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.pdb
+C:\Users\DELL\source\repos\MainScreen\obj\Release\netcoreapp3.1\MainScreen.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\publish\MainScreen.exe
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\publish\MainScreen.dll
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\publish\MainScreen.deps.json
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\publish\MainScreen.runtimeconfig.json
+C:\Users\DELL\source\repos\MainScreen\bin\Release\netcoreapp3.1\publish\MainScreen.pdb
