@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.exe
+C:\Users\DELL\source\repos\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.deps.json
+C:\Users\DELL\source\repos\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.runtimeconfig.json
+C:\Users\DELL\source\repos\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.dll
+C:\Users\DELL\source\repos\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.pdb
+C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.Form1.resources
+C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.dll
+C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.pdb
+C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.genruntimeconfig.cache
