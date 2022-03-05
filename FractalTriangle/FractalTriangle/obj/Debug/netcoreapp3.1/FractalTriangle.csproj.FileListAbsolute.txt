@@ -1,0 +1,16 @@
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.csproj.AssemblyReference.cache
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.Form1.resources
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.csproj.GenerateResource.cache
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.AssemblyInfoInputs.cache
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.AssemblyInfo.cs
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\bin\Debug\netcoreapp3.1\FractalTriangle.exe
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\bin\Debug\netcoreapp3.1\FractalTriangle.deps.json
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\bin\Debug\netcoreapp3.1\FractalTriangle.runtimeconfig.json
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\bin\Debug\netcoreapp3.1\FractalTriangle.runtimeconfig.dev.json
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\bin\Debug\netcoreapp3.1\FractalTriangle.dll
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\bin\Debug\netcoreapp3.1\FractalTriangle.pdb
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.dll
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.pdb
+C:\Users\Pera\Source\Repos\FractalTriangle\FractalTriangle\obj\Debug\netcoreapp3.1\FractalTriangle.genruntimeconfig.cache

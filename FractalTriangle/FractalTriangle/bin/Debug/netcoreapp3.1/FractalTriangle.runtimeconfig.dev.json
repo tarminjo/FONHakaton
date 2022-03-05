@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pera\\.nuget\\packages"
+    ]
+  }
+}
