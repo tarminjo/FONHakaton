@@ -19,12 +19,6 @@ namespace FractalTriangle
 
         
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            
-
-        }
-
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -35,10 +29,6 @@ namespace FractalTriangle
             Point a = new Point(this.Width/2, 0);
             Point b = new Point(0, this.Height-50);
             Point c = new Point(this.Width-50, this.Height-50);
-
-            //g.DrawLine(p, a, b);
-            //g.DrawLine(p, a, c);
-            //g.DrawLine(p, c, b);
 
             Point s = new Point(200, 200);
 
