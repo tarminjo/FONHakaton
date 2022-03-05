@@ -31,6 +31,8 @@ namespace SerpinskiTriangle
         {
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.trackLvlNum = new System.Windows.Forms.TrackBar();
+            ((System.ComponentModel.ISupportInitialize)(this.trackLvlNum)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -50,11 +52,23 @@ namespace SerpinskiTriangle
             this.textBox1.Size = new System.Drawing.Size(125, 27);
             this.textBox1.TabIndex = 1;
             // 
+            // trackLvlNum
+            // 
+            this.trackLvlNum.LargeChange = 1;
+            this.trackLvlNum.Location = new System.Drawing.Point(636, 83);
+            this.trackLvlNum.Minimum = 1;
+            this.trackLvlNum.Name = "trackLvlNum";
+            this.trackLvlNum.Size = new System.Drawing.Size(180, 56);
+            this.trackLvlNum.TabIndex = 4;
+            this.trackLvlNum.Value = 1;
+            this.trackLvlNum.Scroll += new System.EventHandler(this.trackLvlNum_Scroll);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(828, 595);
+            this.Controls.Add(this.trackLvlNum);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
@@ -62,6 +76,7 @@ namespace SerpinskiTriangle
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResizeEnd += new System.EventHandler(this.Form1_ResizeEnd);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
+            ((System.ComponentModel.ISupportInitialize)(this.trackLvlNum)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -71,6 +86,7 @@ namespace SerpinskiTriangle
 
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TrackBar trackLvlNum;
     }
 }
 

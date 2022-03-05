@@ -13,3 +13,19 @@ C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTr
 C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.dll
 C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.pdb
 C:\Users\DELL\source\repos\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.genruntimeconfig.cache
+D:\FON Hackathon\code\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.exe
+D:\FON Hackathon\code\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.deps.json
+D:\FON Hackathon\code\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.runtimeconfig.json
+D:\FON Hackathon\code\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.runtimeconfig.dev.json
+D:\FON Hackathon\code\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.dll
+D:\FON Hackathon\code\SerpinskiTriangle\bin\Debug\netcoreapp3.1\SerpinskiTriangle.pdb
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.csproj.AssemblyReference.cache
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.Form1.resources
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.csproj.GenerateResource.cache
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.AssemblyInfoInputs.cache
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.AssemblyInfo.cs
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.csproj.CoreCompileInputs.cache
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.dll
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.pdb
+D:\FON Hackathon\code\SerpinskiTriangle\obj\Debug\netcoreapp3.1\SerpinskiTriangle.genruntimeconfig.cache
