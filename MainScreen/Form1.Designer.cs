@@ -83,12 +83,12 @@ namespace MainScreen
             this.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.BackgroundImage = global::MainScreen.Properties.Resources.fonis1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.ClientSize = new System.Drawing.Size(820, 496);
+            this.ClientSize = new System.Drawing.Size(813, 499);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Sierpinski Triangle";
             this.ResumeLayout(false);
 
         }
