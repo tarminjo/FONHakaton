@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\MainScreen\\MainScreen.csproj": {}
+    "D:\\FON Hackathon\\code\\MainScreen\\MainScreen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\MainScreen\\MainScreen.csproj": {
+    "D:\\FON Hackathon\\code\\MainScreen\\MainScreen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\MainScreen\\MainScreen.csproj",
+        "projectUniqueName": "D:\\FON Hackathon\\code\\MainScreen\\MainScreen.csproj",
         "projectName": "MainScreen",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\MainScreen\\MainScreen.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\MainScreen\\obj\\",
+        "projectPath": "D:\\FON Hackathon\\code\\MainScreen\\MainScreen.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "D:\\FON Hackathon\\code\\MainScreen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
