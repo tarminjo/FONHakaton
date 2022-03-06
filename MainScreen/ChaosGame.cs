@@ -22,6 +22,7 @@ namespace MainScreen
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Refresh();
             Graphics g = CreateGraphics();
 
             Pen p = new Pen(Color.White);
@@ -74,6 +75,11 @@ namespace MainScreen
         private void Form1_ResizeBegin(object sender, EventArgs e)
         {
             Refresh();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
         }
     }
 }

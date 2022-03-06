@@ -53,3 +53,5 @@ C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONH
 C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.dll
 C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.pdb
 C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.genruntimeconfig.cache
+C:\Users\DELL\source\repos\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Chaos.resources
+C:\Users\DELL\source\repos\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.ChaosGame.resources

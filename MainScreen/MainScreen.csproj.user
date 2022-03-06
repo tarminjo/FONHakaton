@@ -4,6 +4,9 @@
     <_LastSelectedProfileId>C:\Users\DELL\source\repos\MainScreen\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Update="Chaos.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ChaosGame.cs">
       <SubType>Form</SubType>
     </Compile>
