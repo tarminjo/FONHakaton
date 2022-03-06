@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\teodo\\.nuget\\packages\\": {}
+    "C:\\Users\\Pera\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FON Hackathon\\code\\MainScreen\\MainScreen.csproj",
+      "projectUniqueName": "C:\\Users\\Pera\\Downloads\\FONHakaton-main\\FONHakaton-main\\MainScreen\\MainScreen.csproj",
       "projectName": "MainScreen",
-      "projectPath": "D:\\FON Hackathon\\code\\MainScreen\\MainScreen.csproj",
-      "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
-      "outputPath": "D:\\FON Hackathon\\code\\MainScreen\\obj\\",
+      "projectPath": "C:\\Users\\Pera\\Downloads\\FONHakaton-main\\FONHakaton-main\\MainScreen\\MainScreen.csproj",
+      "packagesPath": "C:\\Users\\Pera\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pera\\Downloads\\FONHakaton-main\\FONHakaton-main\\MainScreen\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pera\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

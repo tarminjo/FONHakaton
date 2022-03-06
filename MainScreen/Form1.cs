@@ -21,12 +21,7 @@ namespace MainScreen
             Recursion r = new Recursion();
             r.Show();
         }
-        private void button2_Click(object sender, EventArgs e)
-        {
-            ChaosGame c = new ChaosGame();
-            c.Show();
 
-        }
         private void button3_Click(object sender, EventArgs e)
         {
             Environment.Exit(0);
@@ -67,6 +62,10 @@ namespace MainScreen
             button3.BackColor = Color.FromArgb(54, 155, 205);
         }
 
-
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Chaos c = new Chaos();
+            c.Show();
+        }
     }
 }

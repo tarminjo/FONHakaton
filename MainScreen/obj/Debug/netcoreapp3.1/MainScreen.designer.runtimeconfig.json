@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\teodo\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\teodo\\.nuget\\packages"
+      "C:\\Users\\Pera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pera\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
