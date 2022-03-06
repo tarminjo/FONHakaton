@@ -57,4 +57,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>To construct Sierpinski triangle, first we will define 3 points that represent triangle's points and a starting point of iteration. To create new point, we choose a random endpoint of triangle and draw a midpoint between starting and the point we chose. That point becomes our new starting point, and the process repeats.</value>
+  </data>
 </root>

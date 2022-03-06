@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pera\\Downloads\\FONHakaton-main\\FONHakaton-main\\MainScreen\\MainScreen.csproj": {}
+    "C:\\Users\\Pera\\Downloads\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\MainScreen\\MainScreen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pera\\Downloads\\FONHakaton-main\\FONHakaton-main\\MainScreen\\MainScreen.csproj": {
+    "C:\\Users\\Pera\\Downloads\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\MainScreen\\MainScreen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pera\\Downloads\\FONHakaton-main\\FONHakaton-main\\MainScreen\\MainScreen.csproj",
+        "projectUniqueName": "C:\\Users\\Pera\\Downloads\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\MainScreen\\MainScreen.csproj",
         "projectName": "MainScreen",
-        "projectPath": "C:\\Users\\Pera\\Downloads\\FONHakaton-main\\FONHakaton-main\\MainScreen\\MainScreen.csproj",
+        "projectPath": "C:\\Users\\Pera\\Downloads\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\MainScreen\\MainScreen.csproj",
         "packagesPath": "C:\\Users\\Pera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pera\\Downloads\\FONHakaton-main\\FONHakaton-main\\MainScreen\\obj\\",
+        "outputPath": "C:\\Users\\Pera\\Downloads\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\\MainScreen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pera\\AppData\\Roaming\\NuGet\\NuGet.Config",

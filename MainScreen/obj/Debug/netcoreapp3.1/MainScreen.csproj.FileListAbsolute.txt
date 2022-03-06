@@ -15,22 +15,41 @@ C:\Users\DELL\source\repos\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.dll
 C:\Users\DELL\source\repos\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.pdb
 C:\Users\DELL\source\repos\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.genruntimeconfig.cache
 C:\Users\DELL\source\repos\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Recursion.resources
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.exe
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.deps.json
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.runtimeconfig.json
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.runtimeconfig.dev.json
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.dll
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.pdb
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.csproj.AssemblyReference.cache
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Chaos.resources
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Form1.resources
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Properties.Resources.resources
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Recursion.resources
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.csproj.GenerateResource.cache
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.AssemblyInfoInputs.cache
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.AssemblyInfo.cs
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.csproj.CoreCompileInputs.cache
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.dll
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.pdb
-C:\Users\Pera\Downloads\FONHakaton-main\FONHakaton-main\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.genruntimeconfig.cache
+D:\FON Hackathon\code\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.exe
+D:\FON Hackathon\code\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.deps.json
+D:\FON Hackathon\code\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.runtimeconfig.json
+D:\FON Hackathon\code\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.runtimeconfig.dev.json
+D:\FON Hackathon\code\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.dll
+D:\FON Hackathon\code\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.pdb
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.csproj.AssemblyReference.cache
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Form1.resources
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Properties.Resources.resources
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Recursion.resources
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.csproj.GenerateResource.cache
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.GeneratedMSBuildEditorConfig.editorconfig
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.AssemblyInfoInputs.cache
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.AssemblyInfo.cs
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.csproj.CoreCompileInputs.cache
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.dll
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.pdb
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.genruntimeconfig.cache
+D:\FON Hackathon\code\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.ChaosGame.resources
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.csproj.AssemblyReference.cache
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.ChaosGame.resources
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Form1.resources
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Properties.Resources.resources
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.Recursion.resources
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.csproj.GenerateResource.cache
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.AssemblyInfoInputs.cache
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.AssemblyInfo.cs
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.csproj.CoreCompileInputs.cache
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.dll
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.pdb
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.exe
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.deps.json
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.runtimeconfig.json
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.runtimeconfig.dev.json
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.dll
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\bin\Debug\netcoreapp3.1\MainScreen.pdb
+C:\Users\Pera\Downloads\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\FONHakaton-476a2ed3ec1dec0c1d94cedd1085d48d80e5294a\MainScreen\obj\Debug\netcoreapp3.1\MainScreen.genruntimeconfig.cache

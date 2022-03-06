@@ -65,7 +65,7 @@ namespace MainScreen
                 if (!result || Convert.ToInt32(textBox1.Text) <= 0) textBox1.Text = "100";
                 areaTreshold = Convert.ToInt32(textBox1.Text);
             }
-            int width = ClientRectangle.Width;
+            int width = groupBoxArea.Location.X;
             int height = ClientRectangle.Height;
             Graphics g = CreateGraphics();
             Point p1 = new Point(width / 2, 0);
@@ -78,29 +78,14 @@ namespace MainScreen
             brush.Color = Color.White;
             DrawSierpinski(g, brush, p, areaTreshold);
         }
-        private void button1_Click(object sender, EventArgs e)
-        {
-            CallSierpinski();
-        }
 
-        private void Recursion_ResizeEnd(object sender, EventArgs e)
+        private void CallSierpinski2()
         {
-            int textBoxX = ClientRectangle.Width - textBox1.Width - 12;
-            int textBoxY = 12;
-            int btnX = textBoxX + textBox1.Width / 2 - button1.Width / 2;
-            int btnY = 45;
-            int trackX = btnX + button1.Width / 2 - trackLvlNum.Width / 2 - 45;
-            int trackY = 90;
-            button1.Location = new Point(btnX, btnY);
-            textBox1.Location = new Point(textBoxX, textBoxY);
-            trackLvlNum.Location = new Point(trackX, trackY);
-            CallSierpinski();
-        }
-
-        private void trackLvlNum_Scroll(object sender, EventArgs e)
-        {
+            int n = Convert.ToInt32(trackLvlNum.Value);
+            lblIterations.Text = n.ToString();
             Refresh();
-            int width = ClientRectangle.Width;
+
+            int width = groupBoxArea.Location.X;
             int height = ClientRectangle.Height;
             Graphics g = CreateGraphics();
             Point p1 = new Point(width / 2, 0);
@@ -110,9 +95,60 @@ namespace MainScreen
             SolidBrush brush = new SolidBrush(Color.Gray);
             g.FillPolygon(brush, p);
             brush.Color = Color.White;
-
-            int n = Convert.ToInt32(trackLvlNum.Value);
             DrawSierpinski2(g, brush, p, n);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CallSierpinski();
+        }
+
+        private void Recursion_ResizeEnd(object sender, EventArgs e)
+        {
+            int X = ClientRectangle.Width - groupBoxArea.Width - 12;
+
+            radioButton1.Location = new Point(X, 12);
+            label1.Location = new Point(X, radioButton1.Location.Y + radioButton1.Height);
+            groupBoxArea.Location = new Point (X, label1.Location.Y + label1.Height);
+
+            radioButton2.Location = new Point(X, groupBoxArea.Location.Y + groupBoxArea.Height + 12);
+            groupBoxIterations.Location = new Point (X, radioButton2.Location.Y + radioButton2.Height);
+            closeBtn.Location = new Point(X + groupBoxIterations.Width / 4, groupBoxIterations.Location.Y + groupBoxIterations.Height);
+
+            if (radioButton1.Checked)
+            {
+                CallSierpinski();
+            }
+            else
+            {
+                CallSierpinski2();
+            }
+            
+        }
+
+        private void trackLvlNum_Scroll(object sender, EventArgs e)
+        {
+            CallSierpinski2();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            groupBoxArea.Enabled = !groupBoxArea.Enabled;
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            groupBoxIterations.Enabled = !groupBoxIterations.Enabled;
+        }
+
+        private void closeBtn_Click(object sender, EventArgs e)
+        {
+            this.Hide();
         }
     }
 }
